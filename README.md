@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 My name is John Louie or Jolo for short and I'm a developer from the Philippines
 
 ## About me
-- 🔭 I’m currently working for [💡 ahaStudio](https://ahastudio.io)
-- 🌱 I’m currently learning LLM fine tuning and LLm agents through 🤗 HuggingFace
-- 🌱 I’m currently learning cloud with AWS services
+- 🔭 I recently worked for [💡 ahaStudio](https://ahastudio.io)
+- 🌱 I’m currently learning Vue and Nuxt
+- 🌱 I’m currently learning cloud with AWS
 
 
 ## I code with
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
