@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 ## Hi there 👋!
 My name is John Louie or Jolo for short and I'm a developer from the Philippines
 
+<!--
 ## About me
 - 🔭 I recently worked for [💡 ahaStudio](https://ahastudio.io)
 - 🌱 I’m currently learning Vue and Nuxt
 - 🌱 I’m currently learning cloud with AWS
-
+-->
 
 ## I code with
 <div align="left">
